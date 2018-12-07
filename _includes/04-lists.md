@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### My Favorite Things
+* Books :books:
+* Animals :dog:
+* Video Games :video_game: 
